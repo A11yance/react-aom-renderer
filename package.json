@@ -1,0 +1,19 @@
+{
+  "name": "react-aom-renderer",
+  "version": "1.0.0",
+  "description": "Render React to Accessibility Object Model (AOM)",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/A11yance/react-aom-renderer.git"
+  },
+  "author": "A11yance",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/A11yance/react-aom-renderer/issues"
+  },
+  "homepage": "https://github.com/A11yance/react-aom-renderer#readme"
+}
